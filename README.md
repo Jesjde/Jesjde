@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Jesjde
-- why
+there will MAYBE be some projects 
 
 <!---
 Jesjde/Jesjde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
